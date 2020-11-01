@@ -1,0 +1,12 @@
+#ifndef MAKE_LIBRARY2_GLOBAL_H
+#define MAKE_LIBRARY2_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(MAKE_LIBRARY2_LIBRARY)
+#  define MAKE_LIBRARY2_EXPORT Q_DECL_EXPORT
+#else
+#  define MAKE_LIBRARY2_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // MAKE_LIBRARY2_GLOBAL_H
