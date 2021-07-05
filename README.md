@@ -80,7 +80,7 @@ https://nextpublishing.jp/book/12519.html
 
 ### Amazon様
 
-https://www.amazon.co.jp/%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%E6%8A%80%E8%A1%93%E3%81%AE%E6%B3%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88NextPublishing%EF%BC%89-%E5%9D%82%E6%9C%AC-%E8%81%A1%E5%8F%B2-ebook/dp/B08NT8WGHL/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86&qid=1605869729&sr=8-1
+https://amzn.to/3As16Lm
 
 # 免責事項
 本サンプルプログラムにおけるスクリプト・プログラム・紹介する手法など全ての無償情報（以下、「無償プログラム等」）については、下記の通り一切の保証が無いものとしてご利用下さい。
